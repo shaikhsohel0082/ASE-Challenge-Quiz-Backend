@@ -6,7 +6,10 @@ This is the backend service for the **Online Quiz Application**, built using Nod
 ```
  git clone https://github.com/shaikhsohel0082/ASE-Challenge-Quiz-Backend.git
 
-cd backend
+```
+Run
+```
+cd ASE-Challenge-Quiz-Backend
 ```
 
 2. Install dependencies:

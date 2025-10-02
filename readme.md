@@ -1,14 +1,14 @@
-# Online Quiz Application Backend
+# 📚 Online Quiz Application - Backend
 This is the backend service for the **Online Quiz Application**, built using Node.js, Express, and MongoDB , Mongoose.  
 
 ## ⚙️ Installation & Setup
 1. Clone the repository: 
 ```
 https://github.com/shaikhsohel0082/ASE-Challenge-Quiz-Backend.git
-```
-```
+
 cd backend
 ```
+
 2. Install dependencies:
 ```
 npm install
@@ -37,3 +37,14 @@ GET /question/getAllQuestions
 ```
 POST /question/getScore
 ```
+
+## 📂 Project Structure
+```
+backend
+│── controller    # Business logic for handling requests
+│── models        # Mongoose schemas and models
+│── routes        # API routes
+│── server.js     # Application entry point
+```
+
+
